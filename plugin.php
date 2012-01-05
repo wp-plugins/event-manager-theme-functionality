@@ -445,7 +445,7 @@ class Social_Coup_Functionality {
 
 <h2>Training Videos</h2><p>For information on using WordPress, please see the <a href="/wp-admin/admin.php?page=wp101">WP101 training videos</a>. They will guide you through the basics of creating posts and pages, adding photos, creating links, managing sidebars and widgets, and installing plugins. The following instructions assume this basic understanding of WordPress and describe the theme-specific features.</p>
 
-<h2>Required Plugins</h2><p>Once activating this theme, you should be prompted to automatically install three plugins. The <strong>Social Coup Functionality</strong> plugin contains the core functionality of this theme and is required. This allows us to provide ongoing improvements and new features easily without interfering with any of your theme customizations. The second plugin is <strong>Posts 2 Posts</strong>, which allows you to link Sessions and Speakers. The final one is the <strong>WP101 Plugin</strong>, which provides video tutorials for using WordPress.</p>
+<h2>Required Plugins</h2><p>Once activating this theme, you should be prompted to automatically install three plugins. The <strong>Event Manager Theme Functionality</strong> plugin contains the core functionality of this theme and is required. This allows us to provide ongoing improvements and new features easily without interfering with any of your theme customizations. The second plugin is <strong>Posts 2 Posts</strong>, which allows you to link Sessions and Speakers. The final one is the <strong>WP101 Plugin</strong>, which provides video tutorials for using WordPress.</p>
 
 <p>If you haven\'t done so already, please install and activate these plugins. There should be a notice at the top of this screen to start the installation.</p>
 
@@ -555,7 +555,7 @@ class Social_Coup_Functionality {
 
 		$advanced_customization = '<h2>Advanced Customization</h2>
 
-<p>If you\'re a developer, there are hooks and filters in the Social Coup Functionality plugin so that you can customize it to your needs.</p>
+<p>If you\'re a developer, there are hooks and filters in the Event Manager Theme Functionality plugin so that you can customize it to your needs.</p>
 
 <ul>
 <li><code>apply_filters( \'sc_speaker_metabox_override\', \'__return_true\' );</code> will remove the Speaker Details metabox (so that you can create your own)</li>
