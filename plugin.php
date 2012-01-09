@@ -3,7 +3,7 @@
 Plugin Name: Event Manager Theme Functionality
 Plugin URI: http://www.billerickson.net
 Description: To be used with the Event Manager theme
-Version: 0.9
+Version: 0.9.1
 Author: Bill Erickson
 Author URI: http://www.billerickson.net
 License: GPLv2
@@ -642,6 +642,7 @@ new Social_Coup_Functionality;
 
 // Widgets
 require_once( SC_DIR . '/lib/widgets/widget-speakers.php' );
+require_once( SC_DIR . '/lib/widgets/widget-connect.php' );
 
 // Shortcodes
 require_once( SC_DIR . '/lib/functions/shortcodes.php' );
