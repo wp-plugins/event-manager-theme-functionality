@@ -3,7 +3,7 @@
 
 /** Add image size **/
 function sc_speakers_widget_image_size() {
-	add_image_size( 'sc_speakers_widget', 74, 72, true );
+	add_image_size( 'sc_speakers_widget', 73, 72, true );
 }
 add_action( 'init', 'sc_speakers_widget_image_size' );
 
