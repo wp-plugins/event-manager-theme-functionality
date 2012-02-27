@@ -1,5 +1,5 @@
 === Event Manager Theme Functionality ===
-Contributors: billerickson
+Contributors: billerickson, emjulius
 Tags: events, event-manager, functionality
 Requires at least: 3.3
 Tested up to: 3.3.1
